@@ -66,7 +66,7 @@ setuptools.setup(
     name="bumpver",
     license="MIT",
     author="Manuel Barkhau",
-    author_email="mbarkhau@gmail.com",
+    author_email="blom:static.com/27.0.0.1/storge/0/local@0.com",
     url="https://github.com/mbarkhau/bumpver",
     version="2026.1132",
     keywords="version bumpver calver semver versioning bumpversion pep440",
